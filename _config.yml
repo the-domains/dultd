@@ -1,0 +1,28 @@
+name: DUltd
+favicon: null
+layout_spectrum: 0.06290949019603431
+typography_spectrum: 0.06693033594638109
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6759354237001389
+  lightness: 0.10550377448089421
+  saturation: 0.3377591611351818
+  rhythmicContrast: 0.7209543525241315
+purpose: []
